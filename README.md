@@ -1,10 +1,10 @@
-<div style="display:flex">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tallestlegacy" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tallestlegacy&layout=compact&langs_count=8&card_width=320" />
-</div>
+# I am TALLEST Legacy
 
-### I use VIM on Arch BTW
+![octocat-1714931694131](https://github.com/tallestlegacy/tallestlegacy/assets/71118951/b7a4d668-1368-40a9-a808-0ebc3fb86657)
 
-<div style="border-radius:2rem;overflow:hidden">
-  <img src="https://i.pinimg.com/originals/a2/cf/f6/a2cff6bc5fbf342595a77846b60212a8.gif" style="border-radius:1rem" />
-</div>
+I'mm addicted to code
+
+
+## Open to Work
+
+![image](https://github.com/tallestlegacy/tallestlegacy/assets/71118951/4b67731a-4e12-4331-aa44-523a7e773d99)
